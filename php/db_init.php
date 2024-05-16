@@ -27,4 +27,4 @@ $myPDO->exec('CREATE TABLE IF NOT EXISTS tb_event(
  //$error = $myPDO->errorInfo();//SQL Fehler finden
  //echo $error[2];//Textausgabe
  
-?>
+ 
