@@ -1,0 +1,19 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+header{
+    padding:20px;
+    background-color: silver;
+}
+main{
+    padding:20px;
+}
+footer{
+    position: fixed;
+    width: 100%;
+    bottom: 0px;
+    background-color: silver;
+    text-align: center;
+    padding:10px;
+}

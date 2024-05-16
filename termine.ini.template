@@ -1,0 +1,10 @@
+; Kommentar
+; Initialisierung Terminkalender
+; 
+; Bitte Benutzername und Passwort anpassen und in termine.ini speichern
+
+[DB]
+host = "localhost"
+user = ""
+pass = ""
+db_name = "db_termine1"
