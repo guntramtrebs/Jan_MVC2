@@ -14,4 +14,6 @@
             <li><a href="?contact=true">Kontakt</a></li>
         </ul>
     </header>
-    <main>
+
+
+   <!-- <main>-->
